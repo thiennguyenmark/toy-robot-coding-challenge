@@ -70,7 +70,7 @@ Output: 3,3,NORTH
 
 ## Submitting your solution
 
-- If you have a GitHub account, fork this repo and when your solution is ready for submission, create a new PR to this repo
+- If you have a GitHub account, fork this repo and when your solution is ready for submission, send to us over email your ready to view forked repo URL
 - Otherwise, please use `git bundle` to package up a copy of your repository (with complete commit history) as a single file and send it to us 
   
   i.e
